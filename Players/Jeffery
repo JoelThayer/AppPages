@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Picture.jpg"</center>
+
+  <center><h1>Jeffery Nino</h1>
+  <h2>#45</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Barranquilla, Colombia</h4>
+  <h4>September 26, 1996</h4>
+  <h4>6-4</h4>
+  <h4>170</h4></center>
+
+</body>
+</html>

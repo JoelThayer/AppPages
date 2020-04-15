@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Quincy.jpg"</center>
+
+  <center><h1>Quincy McAfee</h1>
+  <h2>#19</h2>
+  <h4 class="title">SS</h4>
+  <h4>San Diego, California</h4>
+  <h4>September 16, 1997</h4>
+  <h4>5-11</h4>
+  <h4>185</h4></center>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Ricky.jpg"</center>
+
+  <center><h1>Ricky Karcher</h1>
+  <h2>#30</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Saline, Michigan</h4>
+  <h4>September 18, 1997</h4>
+  <h4>6-4</h4>
+  <h4>195</h4></center>
+
+</body>
+</html>

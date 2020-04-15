@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Justin.jpg"</center>
+
+  <center><h1>Justin McGregor</h1>
+  <h2>#14</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Key West, Florida</h4>
+  <h4>December 13, 1995</h4>
+  <h4>6-1</h4>
+  <h4>185</h4></center>
+
+</body>
+</html>

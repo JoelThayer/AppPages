@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Ranser.jpg"</center>
+
+  <center><h1>Ranser Amador</h1>
+  <h2>#13</h2>
+  <h4 class="title">SS</h4>
+  <h4>Sabana Grande de Palenque, Dominican Republic</h4>
+  <h4>March 15, 1999</h4>
+  <h4>6-2</h4>
+  <h4>165</h4></center>
+
+</body>
+</html>

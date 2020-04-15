@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/TJ.jpg"</center>
+
+  <center><h1>TJ Hopkins</h1>
+  <h2>#40</h2>
+  <h4 class="title">CF</h4>
+  <h4>Summerville, South Carolina</h4>
+  <h4>January 16, 1997</h4>
+  <h4>6-0</h4>
+  <h4>195</h4></center>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Noah.jpg"</center>
+
+  <center><h1>Noah Davis</h1>
+  <h2>#64</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Newport Beach, California</h4>
+  <h4>April 22, 1997</h4>
+  <h4>6-2</h4>
+  <h4>195</h4></center>
+
+</body>
+</html>

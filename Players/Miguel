@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Miguel.jpg"</center>
+
+  <center><h1>Miguel Medrano</h1>
+  <h2>#18</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>San Pedro de Marcoris, Dominican Republic</h4>
+  <h4>January 04, 1998</h4>
+  <h4>6-0</h4>
+  <h4>165</h4></center>
+
+</body>
+</html>

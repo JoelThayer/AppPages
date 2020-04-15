@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Garrett.jpg"</center>
+
+  <center><h1>Garrett Wolforth</h1>
+  <h2>#38</h2>
+  <h4 class="title">INF</h4>
+  <h4>Spring, Texas</h4>
+  <h4>October 13, 1997</h4>
+  <h4>6-4</h4>
+  <h4>220</h4></center>
+
+</body>
+</html>

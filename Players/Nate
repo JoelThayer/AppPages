@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Nate.jpg"</center>
+
+  <center><h1>Nate Scantlin</h1>
+  <h2>#00</h2>
+  <h4 class="title">LF</h4>
+  <h4>Rose Hills, Kansas</h4>
+  <h4>February 17, 1999</h4>
+  <h4>6-1/h4>
+  <h4>180</h4></center>
+
+</body>
+</html>

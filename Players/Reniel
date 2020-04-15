@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Reniel.jpg"</center>
+
+  <center><h1>Reniel Ozuna</h1>
+  <h2>#23</h2>
+  <h4 class="title">RF</h4>
+  <h4>Boca Chica, Dominican Republic</h4>
+  <h4>July 29, 1998</h4>
+  <h4>6-2</h4>
+  <h4>202</h4></center>
+
+</body>
+</html>

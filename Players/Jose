@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Jose.jpg"</center>
+
+  <center><h1>Jose Salvador</h1>
+  <h2>#61</h2>
+  <h4 class="title">Left Handed Pitcher</h4>
+  <h4>Miami Gardens, Florida</h4>
+  <h4>September 21, 1997</h4>
+  <h4>6-2</h4>
+  <h4>170</h4></center>
+
+</body>
+</html>

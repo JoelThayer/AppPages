@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Picture.jpg"</center>
+
+  <center><h1>Valentin Martinez</h1>
+  <h2>#46</h2>
+  <h4 class="title">Catcher</h4>
+  <h4>Toluviejo, Columbia</h4>
+  <h4>September 21, 1996</h4>
+  <h4>6-0</h4>
+  <h4>175</h4></center>
+
+</body>
+</html>

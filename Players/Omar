@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Omar.jpg"</center>
+
+  <center><h1>Omar Conoropo</h1>
+  <h2>#24</h2>
+  <h4 class="title">Left Handed Pitcher</h4>
+  <h4>Maracay, Venezuala</h4>
+  <h4>May 27, 1998</h4>
+  <h4>5-10</h4>
+  <h4>165</h4></center>
+
+</body>
+</html>

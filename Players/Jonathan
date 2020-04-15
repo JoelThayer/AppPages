@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Jonathan.jpg"</center>
+
+  <center><h1>Jonathan Willems</h1>
+  <h2>#5</h2>
+  <h4 class="title">2B</h4>
+  <h4>Willemstad, Curacao</h4>
+  <h4>November 07, 1998</h4>
+  <h4>5-11</h4>
+  <h4>190</h4></center>
+
+</body>
+</html>

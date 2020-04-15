@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Manuel.jpg"</center>
+
+  <center><h1>Manuel Cachutt</h1>
+  <h2>#28</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Ciudad Bolivar, Venezuala</h4>
+  <h4>April 22, 1997</h4>
+  <h4>6-0</h4>
+  <h4>185</h4></center>
+
+</body>
+</html>

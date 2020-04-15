@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/Jake.jpg"</center>
+
+  <center><h1>Jake Stevenson</h1>
+  <h2>#56</h2>
+  <h4 class="title">Right Handed Pitcher</h4>
+  <h4>Waconia, Minnesota</h4>
+  <h4>March 24, 1997</h4>
+  <h4>6-4</h4>
+  <h4>225</h4></center>
+
+</body>
+</html>

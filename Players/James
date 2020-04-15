@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<center><img src="../images/James.jpg"</center>
+
+  <center><h1>James Free</h1>
+  <h2>#63</h2>
+  <h4 class="title">Catcher</h4>
+  <h4>Anaheim, California</h4>
+  <h4>March 26, 1998</h4>
+  <h4>5-11</h4>
+  <h4>185</h4></center>
+
+</body>
+</html>
